@@ -1,5 +1,7 @@
 # vue-week6
 
+Git Pages:  https://jasper0730.github.io/Vue_week6/
+
 ## Project setup
 ```
 npm install
