@@ -2,25 +2,36 @@
 
 Git Pages:  https://jasper0730.github.io/Vue_week6/
 
-## Project setup
-```
-npm install
-```
+建立路由--V
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+登入頁面--V
 
-### Compiles and minifies for production
-```
-npm run build
-```
+前台:
 
-### Lints and fixes files
-```
-npm run lint
-```
+產品列表--V
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+產品明細 modal--V
+
+加入購物車--V
+
+購物車列表--V
+
+刪除單筆品項--V
+
+表單送出--V
+
+表單驗證--V
+
+登出--V
+
+套件:
+
+Vue-loading-overlay--V
+
+Axios--V
+
+Mitt--V
+
+Bootstrap5--V
+
+Veevalidate--V
